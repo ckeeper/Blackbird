@@ -448,7 +448,7 @@ style "evolve-panel" {
 	text[ACTIVE] = @text_color
 	
 	engine "murrine" {
-		roundness = 0
+		roundness = 3
 	}
 }
 
